@@ -9,4 +9,4 @@ spec:
   ports:
     - port: 5000
       targetPort: 5000
-      nodePort: 30080   # NodePort between 30000-32767
+      nodePort: 30090   # NodePort between 30000-32767
